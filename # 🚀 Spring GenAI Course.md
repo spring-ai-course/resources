@@ -1,4 +1,11 @@
-# 🚀 Spring GenAI Course – Overview
+🚀 Spring GenAI Course – Overview
+
+
+## 📌 Prerequisites
+- Java 17+  
+- Basic Spring Boot knowledge  
+- Maven or Gradle familiarity 
+
 
 
 ## 🚀 1: Spring AI – Getting Started
