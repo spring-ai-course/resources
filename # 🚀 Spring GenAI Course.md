@@ -2,7 +2,7 @@
 
 
 ## 📌 Prerequisites
-- Java 17+  
+- Java 21+  
 - Basic Spring Boot knowledge  
 - Maven or Gradle familiarity
 - Docker
